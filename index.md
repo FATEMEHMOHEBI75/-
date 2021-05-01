@@ -12,19 +12,12 @@
 + location : Mashhad , I.R.Iran
 
 
-### Skill Highlights
-
----
-+ trade on Tehran Stock Exchange and Forex
-+ translating
-
-
 ### Education
 
 ---
 + Diploma : Shahid Nedadadi Conservatory
 + Bachelor of science : Software Engineering
-_ payam Noor University of rey 
+_ Bozorgmehr Ghaenat University
 
 ### language
 
